@@ -6,9 +6,10 @@
     <header>
       <h1><div aligh=center> Карта России </div></h1>
     </header>
-    <p><a href="sample.html"><img src="![image](https://user-images.githubusercontent.com/118666275/204857207-5bba4d72-4693-47fc-9d25-426dc311ed85.png) " width="50" 
+    <p><a href="sample.html"><img src="![герб ярславля](https://user-images.githubusercontent.com/118666275/204868360-4a0b91fc-e392-4ac0-b63f-6e4b00fbae54.jpg)
+" width="50" 
    height="50" border="0" alt="герб"></a></p>
   </body>
 </html>
 ![jl](https://user-images.githubusercontent.com/118666275/204086209-d09108e5-d68c-4da8-9207-095d014aaf44.jpg)
-![image](https://user-images.githubusercontent.com/118666275/204860596-b61f1f6a-ef0a-422e-9dfe-783bf7207554.png)
+![герб ярславля](https://user-images.githubusercontent.com/118666275/204868285-66fb4077-5e96-46c9-bb3d-f0c9285830d9.jpg)
