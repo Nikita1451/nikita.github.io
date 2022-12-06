@@ -6,7 +6,7 @@
     <header>
       <h1><div aligh=center> Карта России </div></h1>
     </header>
-    <p><a <Герб Ярославля> </Герб Ярославля>><img src="![герб ярславля](https://user-images.githubusercontent.com/118666275/204868360-4a0b91fc-e392-4ac0-b63f-6e4b00fbae54.jpg)
+    <p><a href><img src="![герб ярславля](https://user-images.githubusercontent.com/118666275/204868360-4a0b91fc-e392-4ac0-b63f-6e4b00fbae54.jpg)
 " width="50" height="50" border="0" alt="герб"></a></p>
   </body>
 </html>
